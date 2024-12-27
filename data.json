@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "nom":"catalyseur",
+        "prix":300,
+        "categorie":"moteur",
+        "image":"images/img1.jpg",
+        "enStock":true
+    },
+    {
+        "id":2,
+        "nom":"retroviseur",
+        "prix":100,
+        "categorie":"accessoire",
+        "image":"images/img2.jpg",
+        "enStock":true
+
+    },
+    {
+        "id":3,
+        "nom":"parebrise",
+        "prix":500,
+        "categorie":"carcasse",
+        "image":"images/img3.jpg",
+        "enStock":true
+    }
+
+]

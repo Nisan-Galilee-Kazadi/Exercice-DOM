@@ -1,3 +1,5 @@
-const age = 16;
+const response = await fetch(data.json);
 
-console.log(age);
+const pieces = await response.json();
+
+console.log(pieces);

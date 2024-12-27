@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#index{
+    background-color: rgb(255, 254, 253);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navBar{
+    background-color: rgb(25, 93, 252);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
