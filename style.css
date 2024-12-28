@@ -15,3 +15,7 @@
     text-align: center;
     padding: 20px;
 }
+
+.piece img{
+    width: 200px;
+}
